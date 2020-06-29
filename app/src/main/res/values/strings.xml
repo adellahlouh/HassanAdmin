@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">HassanAdmin</string>
+    <string name="title">Title</string>
+    <string name="send_notification">Send Notification</string>
+    <string name="key_notification">
+        AAAAn8xXJmU:APA91bGuR1ZTvdx2fAdQ7B6jkJc8JPp7V6PGXQLTLYSMlVVez2IGrUGsf_fjNBs18IPbUTYtShynkRJVAjmjLiKgtmHFPTRiJoz7XWQ0fe2Qp5aO4b0AIQB-fUXYHg_guwqD6Thnb6LA
+    </string>
+    <string name="body">Body</string>
+</resources>
